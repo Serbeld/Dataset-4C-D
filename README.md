@@ -4,7 +4,7 @@ The Dataset consists in 3099 images in RGB scale, divided in 4 classes. There ar
 
 The images are getting from
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia and
-https://github.com/lindawangg/COVID-Net
+https://github.com/ieee8023/covid-chestxray-dataset
 
     Author: Sergio Luis Beleño Díaz
     Date: 2020-04-02
