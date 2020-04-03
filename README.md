@@ -36,7 +36,7 @@ Size:
 You can find an example of implementation in the following link: 
 https://github.com/Serbeld/Dataset-4C-D/blob/master/ColorData_4C_D.ipynb
 
-# How to download
+# How to download it
 
 You can download it in the following link: 
 https://drive.google.com/file/d/1CaegmTEprW5fOyGWVMTlh-8x08RqoZiq/view?usp=sharing
