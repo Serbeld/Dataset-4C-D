@@ -1,6 +1,6 @@
 # Dataset 4C-D
 
-The Dataset_4C_D_RGB.hdf5 file consists in 3099 images in RGB scale, divided in 4 classes. There are 2169 training images, 465 validation images and 465 test images. (70% for training, 15% for validation and 15% for testing)
+The Dataset consists in 3099 images in RGB scale, divided in 4 classes. There are 2169 training images, 465 validation images and 465 test images. (70% for training, 15% for validation and 15% for testing)
 
 The images are getting from
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia and
