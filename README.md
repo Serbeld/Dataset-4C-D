@@ -29,3 +29,9 @@ Size:
     
 
 <img src="índice.png" />
+
+
+# How to implement it
+
+You can find an example of implementation in the following link: 
+https://github.com/Serbeld/Dataset-4C-D/blob/master/ColorData_4C_D.ipynb
