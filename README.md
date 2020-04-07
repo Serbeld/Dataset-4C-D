@@ -4,7 +4,9 @@ The Dataset consists in a file with 3099 images in RGB scale  (Information is on
 
 The images are getting from:
 
-    Kermany, Daniel & Goldbaum, Michael & Cai, Wenjia & Valentim, Carolina & Liang, Hui-Ying & Baxter, Sally & McKeown, Alex & Yang, Ge & Wu, Xiaokang & Yan, Fangbing & Dong, Justin & Prasadha, Made & Pei, Jacqueline & Ting, Magdalena & Zhu, Jie & Li, Christina & Hewett, Sierra & Dong, Jason & Ziyar, Ian & Zhang, Kang. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 172. 1122-1131.e9. 10.1016/j.cell.2018.02.010. 
+    Kermany, Daniel & Goldbaum, Michael & Cai, Wenjia & Valentim, Carolina & Liang, Hui-Ying & Baxter, Sally & McKeown, Alex & Yang, Ge & Wu, Xiaokang & Yan, Fangbing & Dong, Justin & Prasadha, Made & Pei, Jacqueline & Ting, Magdalena & Zhu, Jie & Li, Christina & Hewett, Sierra & Dong, Jason & Ziyar, Ian & Zhang, Kang. (2018). 
+    Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. 
+    Cell. 172. 1122-1131.e9. 10.1016/j.cell.2018.02.010. 
     https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
     
     Joseph Paul Cohen and Paul Morrison and Lan Dao
